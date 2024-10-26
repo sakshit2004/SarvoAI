@@ -1,5 +1,6 @@
 streamlit
 langchain
+langchain-community
 openai
 python-dotenv
 python-docx
